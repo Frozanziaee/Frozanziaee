@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Frozanziaee a fronted developer student
-- 👀 I’m interested in coding
+- 👋 Hi, this is @Frozanziaee a Web developer 
+- 👀 I’m interested in coding and love to work in this era.
 
 <!---
 Frozanziaee/Frozanziaee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
